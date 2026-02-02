@@ -39,7 +39,7 @@ Computer Science undergraduate at Northeastern Illinois University (NEIU) with a
 
 ## 📈 What I’m Currently Working On
 
-- Improving backend development skills**
+- Improving **backend development skills**
 - Strengthening understanding of **databases and system design**
 - Gaining real-world experience in **IT support and troubleshooting**
 - Preparing for internships and entry-level software roles
