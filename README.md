@@ -6,8 +6,8 @@ Computer Science undergraduate at Northeastern Illinois University (NEIU) with a
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science student at **Northeastern Illinois University**
-- 🗓 Expected Graduation: **May 2026**
+- 🎓 Computer Science @ **Northeastern Illinois University**
+- 🗓 Graduated: **May 2026**
 - 💼 Experience in **IT Support / Help Desk** environments
 - 🔍 Interested in software engineering, backend development, and systems support
 - 📍 Based in the Chicago area
